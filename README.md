@@ -1,3 +1,7 @@
+# RoboFriends
+
+A simple React app that displays robots from robohash.org and allows you to search through them.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
